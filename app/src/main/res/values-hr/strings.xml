@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zd2</string>
+    <string name="number_format_exception_text">Unesite samo brojeve</string>
+</resources>
